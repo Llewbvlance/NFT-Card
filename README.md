@@ -30,11 +30,11 @@ Users should be able to:
 ![](./images/Screenshot%202023-09-27%20175122.png)
 ![](./images/Screenshot%202023-09-27%20175205.png)
 
+
 ### Links
 
-- Solution URL: [[Add solution URL here](https://github.com/Llewbvlance/NFT-Card)](https://your-solution-url.com)
-- Live Site URL: [(https://llewbvlance.github.io/NFT-Card/](https://your-live-site-url.com)
-
+- Solution URL: [Add solution URL here](ttps://github.com/Llewbvlance/NFT-Card)
+- Live Site URL: [Add live site URL here](https://llewbvlance.github.io/NFT-Card/)
 
 ### Links
 
