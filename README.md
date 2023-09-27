@@ -32,8 +32,14 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Llewbvlance/NFT-Card)
-- Live Site URL: [Add live site URL here]((https://llewbvlance.github.io/NFT-Card/))
+- Solution URL: [[Add solution URL here](https://github.com/Llewbvlance/NFT-Card)](https://your-solution-url.com)
+- Live Site URL: [(https://llewbvlance.github.io/NFT-Card/](https://your-live-site-url.com)
+
+
+### Links
+
+- Solution URL: [(https://github.com/Llewbvlance/NFT-Card](https://github.com/Llewbvlance/NFT-Card)
+- Live Site URL: [(https://llewbvlance.github.io/NFT-Card/)]((https://llewbvlance.github.io/NFT-Card/))
 
 ## My process
 
