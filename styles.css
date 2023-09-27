@@ -1,0 +1,158 @@
+:root{
+    --very-dark-blue:hsl(217, 54%, 11%);
+    --very-dark-blue-card: hsl(216, 50%, 16%);
+    --very-dark-blue-line:hsl(215, 32%, 27%);
+    --white:hsl(0, 0%, 100%);
+    --soft-blue:hsl(215, 51%, 70%);
+    --cyan:hsl(178, 100%, 50%);
+
+}
+
+
+
+body{
+    background-color: var(--very-dark-blue);
+    color: white;
+    font-family: 'Outfit', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card-bg{
+    width:450px;
+    height:auto;
+    background-color: var(--very-dark-blue-card);
+    border-radius: 10px;
+    box-shadow: 5px 20px 50px hsla(0, 0%, 0%, 20%);
+}
+
+#NFTIMG{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 15px;
+    
+}
+
+#eqimg{
+    width: 400px;
+    height: auto;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+h3{
+    margin-left: 25px;
+    font-size: 1.8rem;
+}
+
+.text{
+    margin-left: 25px;
+}
+
+svg{
+    
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+.value-figure{
+    display: inline-block;
+    vertical-align: middle;
+    color: var(--cyan)
+}
+
+.value{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 25px;
+    
+    
+}
+
+.value-figure2{
+    display: inline-block;
+    vertical-align: middle;
+    color: var(--soft-blue)
+}
+
+p{
+    margin-left: 25px;
+    font-size: 18px;
+    color: var(--soft-blue);
+}
+
+#avatar{
+    width: 45px;
+    border:1px solid white;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+   
+}
+
+#avatar-text{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#jules{
+    color: white;
+}
+
+.creation{
+   margin: 15px 25px 25px 25px;
+}
+
+.attribution{
+    margin-top: 25px;
+}
+
+hr{
+    opacity: 10%;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+h3:hover{
+    color: var(--cyan);
+    cursor: pointer;
+}
+
+#jules:hover{
+    color: var(--cyan);
+    cursor: pointer;
+}
+
+.cyan-overlay{
+    background: hsla(178, 100%, 50%, 40%);
+
+display: none;
+
+height: 400px;
+
+width: 400px;
+
+position: relative;
+
+bottom: 400px;
+
+margin-bottom: -400px;
+
+
+}
+
+.viewicon{
+  margin-left: 180px;
+  margin-top: 180px;
+}
+
+
+#NFTIMG:hover span.cyan-overlay{
+    display: block;
+    cursor: pointer;
+}
+
+
