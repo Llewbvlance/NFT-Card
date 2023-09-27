@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](ttps://github.com/Llewbvlance/NFT-Card)
+- Solution URL: [Add solution URL here](https://github.com/Llewbvlance/NFT-Card)
 - Live Site URL: [Add live site URL here](https://llewbvlance.github.io/NFT-Card)
 
 
